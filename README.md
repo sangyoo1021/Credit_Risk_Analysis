@@ -7,17 +7,18 @@ In this project we are given a dataset and tasked to evaluate reseample, oversam
 
 ## Results
 
-![Naive_Random_Oversampling](address)
+![Naive_Random_Oversampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Naive_Random_Oversampling.png)
 
-![SMOTE_Oversampling](address)
+![SMOTE_Oversampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/SMOTE_Oversampling.png)
 
-![Undersampling](address)
+![Undersampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Undersampling.png)
 
-![Over_and_under_sampling](address)
+![Over_and_under_sampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Over_and_under_sampling.png)
 
-![Balanced_random_forest_classifier](address)
+![Balanced_random_forest_classifier](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Balanced_random_forest_classifier.png)
 
-![Easy_ensemble_adaboost_classifier](address)
+![Easy_ensemble_adaboost_classifier](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Easy_ensemble_adaboost_classifier.png)
+
 
 ## Summary
 When analyzing credit risk data, we need  to consider accuracy score and precision score. Each sample was analyzed so that accuracy score and precision score (with high risk and low risk) can be presented. 
