@@ -6,17 +6,22 @@ In this project we are given a dataset and tasked to evaluate reseample, oversam
 
 
 ## Results
-
+Naive_Random_Oversampling
 ![Naive_Random_Oversampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Naive_Random_Oversampling.png)
 
+SMOTE_Oversampling
 ![SMOTE_Oversampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/SMOTE_Oversampling.png)
 
+Undersampling
 ![Undersampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Undersampling.png)
 
+Over_and_under_sampling
 ![Over_and_under_sampling](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Over_and_under_sampling.png)
 
+Balanced_random_forest_classifier
 ![Balanced_random_forest_classifier](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Balanced_random_forest_classifier.png)
 
+Easy_ensemble_adaboost_classifier
 ![Easy_ensemble_adaboost_classifier](https://github.com/sangyoo1021/Credit_Risk_Analysis/blob/main/Easy_ensemble_adaboost_classifier.png)
 
 
